@@ -2,9 +2,9 @@
   "name": "mtp",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "proxy.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node proxy.js"
   },
   "author": "",
   "license": "ISC",
