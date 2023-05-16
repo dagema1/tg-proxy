@@ -8,7 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "engines" : { 
-    "node" : "14"
+  "engines": {
+    "node": "14"
+  },
+  "dependencies": {
+    "socks5": "^1.0.1"
   }
 }
